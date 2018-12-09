@@ -2,5 +2,4 @@
 
 
 
-![](https://github.com/itenyh/ShineDictionary/blob/master/search.png)
-![](https://github.com/itenyh/ShineDictionary/blob/master/dicDetail.png)
+<div align=center>![](https://github.com/itenyh/ShineDictionary/blob/master/dicDetail.png)
